@@ -19,7 +19,7 @@ public class map {
     public ArrayList<Integer> road (City city1, City City2){
 
         ArrayList<Integer>  road = new ArrayList<Integer>();  
-        
+
 
 
 
